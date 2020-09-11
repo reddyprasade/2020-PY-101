@@ -29,4 +29,4 @@ All Python training students will receive comprehensive courseware in GitHub.
 ### Cource 
 * [Introducation To Python Program ](https://github.com/reddyprasade/2020-PY-101/blob/master/PPT/Introduction%20to%20Python%20Programming.pdf)
 
-
+### [Registation Process](https://forms.gle/iyT5kxrTZKRUT7n49)
