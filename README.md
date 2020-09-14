@@ -29,10 +29,20 @@ All Python training students will receive comprehensive courseware in GitHub.
 ### Course 
 * [Introducation To Python Program ](https://github.com/reddyprasade/2020-PY-101/blob/master/PPT/Introduction%20to%20Python%20Programming.pdf)
 
-### [Registation Process](https://forms.gle/iyT5kxrTZKRUT7n49)
+### Registation Process 
+* [Registation Link](https://forms.gle/iyT5kxrTZKRUT7n49)
+* All Students them to join Before 15 minutes to the meeting Link
+* Ask to mute 🔕 while explain
+* Ask them if any one have question in session, we have discussion after Completing the training
 
 ### Meeting Link:
-[link](https://meet.google.com/ppp-feno-gqb)
+* [link](https://meet.google.com/ppp-feno-gqb)
+* Join to Meeting 
+  * ![Step-1](https://lh3.googleusercontent.com/-CzELC5wghnY/X19_jCahhqI/AAAAAAAAAHo/Cp3Dm7B2RVc6JxjRfNne1343LGOWNJrBwCK8BGAsYHg/s0/2020-09-14.png)
+  * ![Step-2](https://lh3.googleusercontent.com/-vMOP_ZFncC4/X199gHWNnmI/AAAAAAAAp6I/dFSBb0WzVvAS6c00TKmAXkPFH536gfo_gCK8BGAsYHg/s0/2020-09-14.png)
+  * ![Step-3](https://lh3.googleusercontent.com/-8ytudhew9w8/X19-itFNGWI/AAAAAAAAp6Q/EvzCtodZo88hqomUmY2N0XB9t4V8j9GrQCK8BGAsYHg/s0/2020-09-14.png)
+
 
 ### Certification You Can Collect in Below Links 
-[Certification](https://github.com/reddyprasade/2020-PY-101/tree/master/Images/Certification)
+|Student Name|Certification |
+|--|---|
