@@ -31,5 +31,8 @@ All Python training students will receive comprehensive courseware in GitHub.
 
 ### [Registation Process](https://forms.gle/iyT5kxrTZKRUT7n49)
 
+### Meeting Link:
+[link](https://meet.google.com/ppp-feno-gqb)
+
 ### Certification You Can Collect in Below Links 
 [Certification](https://github.com/reddyprasade/2020-PY-101/tree/master/Images/Certification)
