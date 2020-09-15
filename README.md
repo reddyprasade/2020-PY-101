@@ -122,3 +122,8 @@ Verify if Python is installed using IDLE app
 Hurray! You are ready to start developing Python applications in your Windows 10 system.
 
 
+|Days|PPT|Jupyter Notebook|
+|-----|----|------|
+|Day-1|||
+|Day-2|||
+
