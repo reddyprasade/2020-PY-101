@@ -42,5 +42,83 @@ All Python training students will receive comprehensive courseware in GitHub.
   * ![Step-2](https://lh3.googleusercontent.com/-vMOP_ZFncC4/X199gHWNnmI/AAAAAAAAp6I/dFSBb0WzVvAS6c00TKmAXkPFH536gfo_gCK8BGAsYHg/s0/2020-09-14.png)
   * ![Step-3](https://lh3.googleusercontent.com/-8ytudhew9w8/X19-itFNGWI/AAAAAAAAp6Q/EvzCtodZo88hqomUmY2N0XB9t4V8j9GrQCK8BGAsYHg/s0/2020-09-14.png)
 
+***
+### Installation Process
+#### **Step 1:** Download the Python Installer binaries
+1. Open the [official Python website](https://www.python.org/downloads/windows/)in your web browser. Navigate to the Downloads tab for Windows.
+2. Choose the latest Python 3 release. In our example, we choose the latest Python 3.7.3 version.
+3. Click on the link to download Windows x86 executable installer if you are using a 32-bit installer. In case your Windows installation is a 64-bit system, then download Windows x86-64 executable installer.
+Download Python Installer
+
+![](https://cdn.journaldev.com/wp-content/uploads/2019/06/DownloadRel.png)
+
+#### **Step 2:** Run the Executable Installer
+1. Once the installer is downloaded, run the Python installer.
+2. Check the Install launcher for all users check box. Further, you may check the Add **Python 3.7** to path check box to include the interpreter in the execution path.
+Customize Installation
+![](https://cdn.journaldev.com/wp-content/uploads/2019/06/customize_installation.png)
+
+3. Select Customize installation.
+  
+Choose the optional features by checking the following check boxes:
+
+4. Documentation
+5. pip
+6. tcl/tk and IDLE (to install tkinter and IDLE)
+7. Python test suite (to install the standard library test suite of Python)
+8. Install the global launcher for `.py` files. This makes it easier to start Python
+9. Install for all users.
+Python Windows 10 Optional Features
+![](https://cdn.journaldev.com/wp-content/uploads/2019/06/optional_features-1.png)
+
+Click Next.
+
+10. This takes you to Advanced Options available while installing Python. Here, select the Install for all users and Add Python to environment variables check boxes.
+Optionally, you can select the Associate files with Python, Create shortcuts for installed applications and other advanced options. Make note of the python installation directory displayed in this step. You would need it for the next step.
+![](https://cdn.journaldev.com/wp-content/uploads/2019/06/advanced_options.png)
+
+After selecting the Advanced options, click Install to start installation.
+![](https://cdn.journaldev.com/wp-content/uploads/2019/06/setup_successful.png)
+Python Installer Advanced Options
+
+11. Once the installation is over, you will see a Python Setup Successful window.
+Python Windows 10 Setup Successful
+
+#### **Step 3:** Add Python to environmental variables
+The last (optional) step in the installation process is to add Python Path to the System Environment variables. This step is done to access Python through the command line. In case you have added Python to environment variables while setting the Advanced options during the installation procedure, you can avoid this step. Else, this step is done manually as follows.
+
+In the Start menu, search for “advanced system settings”. Select “View advanced system settings”. In the “System Properties” window, click on the “Advanced” tab and then click on the “Environment Variables” button.
+
+Locate the Python installation directory on your system. If you followed the steps exactly as above, python will be installed in below locations:
+
+
+`C:\Program Files (x86)\Python37-32: for 32-bit installation`
+`C:\Program Files\Python37-32: for 64-bit installation`
+
+The folder name may be different from “Python37-32” if you installed a different version. Look for a folder whose name starts with Python.
+
+Append the following entries to PATH variable as shown below:
+![](https://cdn.journaldev.com/wp-content/uploads/2019/06/environmentalvar_to-path.png)
+
+Adding Python Environmental variable To Path
+![](https://cdn.journaldev.com/wp-content/uploads/2019/06/config_envvar_new-1.png)
+
+Config Envvar New
+
+#### **Step 4: Verify the Python Installation**
+
+You have now successfully installed Python 3.7.3 on Windows 10. You can verify if the Python installation is successful either through the command line or through the IDLE app that gets installed along with the installation.
+
+Search for the command prompt and type “python”. You can see that Python 3.7.3 is successfully installed.
+![](https://cdn.journaldev.com/wp-content/uploads/2019/06/verify-python-cmdpromt.png)
+
+Verify if Python is installed through the Command prompt
+
+An alternate way to reach python is to search for “Python” in the start menu and clicking on IDLE (Python 3.7 64-bit). You can start coding in Python using the Integrated Development Environment(IDLE).
+![](https://cdn.journaldev.com/wp-content/uploads/2019/06/verify-python-startmenu.png)
+
+Verify if Python is installed using IDLE app
+
+Hurray! You are ready to start developing Python applications in your Windows 10 system.
 
 
