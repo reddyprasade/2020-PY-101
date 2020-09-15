@@ -124,6 +124,6 @@ Hurray! You are ready to start developing Python applications in your Windows 10
 
 |Days|PPT|Jupyter Notebook|
 |-----|----|------|
-|Day-1|||
+|Day-1|[Day-1](https://github.com/reddyprasade/2020-PY-101/blob/master/Day-1/chapter1.pdf)|[Varables](https://github.com/reddyprasade/2020-PY-101/blob/master/Day-1/Tasks/PY0101EN-0-0-Variables%2C%20assignment%20and%20operator%20precedence.ipynb),[Type Casting](https://github.com/reddyprasade/2020-PY-101/blob/master/Day-1/Tasks/PY0101EN-1-1-Types.ipynb)|
 |Day-2|||
 
