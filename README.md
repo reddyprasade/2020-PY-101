@@ -43,6 +43,4 @@ All Python training students will receive comprehensive courseware in GitHub.
   * ![Step-3](https://lh3.googleusercontent.com/-8ytudhew9w8/X19-itFNGWI/AAAAAAAAp6Q/EvzCtodZo88hqomUmY2N0XB9t4V8j9GrQCK8BGAsYHg/s0/2020-09-14.png)
 
 
-### Certification You Can Collect in Below Links 
-|Student Name|Certification |
-|--|---|
+
